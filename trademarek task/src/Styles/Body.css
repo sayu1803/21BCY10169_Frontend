@@ -1,0 +1,18 @@
+.bodyText{
+    font-size: 54px;
+    letter-spacing: -.5px;
+    text-align: center;
+    margin-top: 150px;
+    font-weight: bolder;
+}
+.subBodyText{
+    font-size: 30px;
+    line-height: 3rem;
+    text-align: center;
+    margin-top: 40px;
+    font-weight: 500;
+
+}
+.blueText{
+    color: rgb(67 128 236);
+}
